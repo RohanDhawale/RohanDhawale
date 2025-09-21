@@ -106,8 +106,6 @@ Currently, I'm working with teams to deliver backend solutions that power real-w
 
 ---
 
-### 📫 Connect with me
-
 ### 📫 Connect with Me
 
 <p align="left">
@@ -124,9 +122,6 @@ Currently, I'm working with teams to deliver backend solutions that power real-w
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=rohandhawale&style=for-the-badge&color=blue)
 
 ---
