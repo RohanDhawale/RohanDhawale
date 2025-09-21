@@ -108,6 +108,8 @@ Currently, I'm working with teams to deliver backend solutions that power real-w
 
 ### 📫 Connect with me
 
+### 📫 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/rohandhawale" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -122,5 +124,9 @@ Currently, I'm working with teams to deliver backend solutions that power real-w
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=rohandhawale&style=for-the-badge&color=blue)
 
 ---
