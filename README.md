@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Dhawale</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Software+Developer+on+a+mission;Solving+problems+one+line+at+a+time;Passionate+about+clean+code+%7C+smart+solutions;Always+learning+%7C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Software+Developer+on+a+mission;Solving+problems+one+line+at+a+time;Passionate+about+clean+code+%7C+smart+solutions;Always+learning+%7C+Always+growing" alt="Typing SVG" />
 </p>
 
 
@@ -13,7 +13,7 @@ Currently, I'm working with teams to deliver backend solutions that power real-w
 
 ---
 
-🔭 **Currently working on:** [ExamInfo.com](https://examinfo.com)  
+🔭 **Currently working on:** [ExamInfo.com](https://examinfo.mh-hsc.ac.in/)  
 🌱 **Learning:** Deep diving into **.NET ecosystem**  
 🤝 **Open to Collaborate:** On backend-focused **Open Source Projects**  
 💬 **Ask Me About:** APIs, Web Dev, Clean Architecture, System Design  
