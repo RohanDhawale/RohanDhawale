@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Dhawale</h1>
 <h3 align="center">
-I’m a backend-focused Software Developer from India with a strong foundation in building robust, scalable, and maintainable systems. I specialize in developing enterprise-grade applications using .NET and Spring Boot, with a deep understanding of backend architecture, APIs, and microservices and delivering clean, efficient, and maintainable code that adds long-term value to the organizations I work with. Whether it's building a RESTful service, optimizing database queries, or architecting a new feature, I’m always focused on delivering solutions that are both technically sound and business-aligned.
+I’m a Software Developer from India with a strong foundation in building robust, scalable, and maintainable systems. I specialize in developing enterprise-grade applications using .NET and Spring Boot, with a deep understanding of backend architecture, APIs, and microservices and delivering clean, efficient, and maintainable code that adds long-term value to the organizations I work with. Whether it's building a RESTful service, optimizing database queries, or architecting a new feature, I’m always focused on delivering solutions that are both technically sound and business-aligned.
 Currently, I'm working with teams to deliver backend solutions that power real-world products used by thousands.
 </h3>
 
